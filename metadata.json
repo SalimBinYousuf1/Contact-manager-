@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "Apple-grade contacts manager with seamless communication, smart groups, vCard import/export, and elegant Liquid Glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
